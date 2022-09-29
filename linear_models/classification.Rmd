@@ -1,6 +1,6 @@
 ---
 title: "Classification"
-author: "Linus Fackler"
+author: "Linus Fackler and Fernando Colman"
 output:
   pdf_document: default
   word_document: default
