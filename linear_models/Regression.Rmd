@@ -11,7 +11,7 @@ Linear Models Project
 
 Linear regression is a method that utilizes x variables (predictors) and y values (targets) such that their relationship can be modeled using the linear equation y = mx * b. The goal of linear regression is to find a line of "best-fit" which can be used to predict future y values given new x values. An advantage of linear regression is that you can also do polynomial linear regression to make models that are not necessarily linear equations. A disadvantage of linear regression is that it's a method with a lot of bias, meaning it wants to find a linear model even if it doesn't really fit the model.  
 
-Dataset Citation: Fanaee-T, Hadi. (2013). Bike Sharing Dataset. UCI Machine Learning Repository.
+*Dataset Citation: Fanaee-T, Hadi. (2013). Bike Sharing Dataset. UCI Machine Learning Repository.*
 
 
 ## A. Loading Data and Splitting into Test/Train
