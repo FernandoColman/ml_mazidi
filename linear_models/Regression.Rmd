@@ -1,6 +1,6 @@
 ---
 title: "Regression"
-author:"Fernando Colman and Linus Fackler"
+author: "Fernando Colman and Linus Fackler"
 output:
   pdf_document: default
   html_notebook: default
