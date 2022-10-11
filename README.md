@@ -14,4 +14,4 @@ Check out my notebooks on [linear regression](linear_models/Regression.pdf) and 
 Here is my code for [Logistic Regression](ml_algos_from_scratch/LogReg_Scratch/LogReg_Scratch/lr.cpp) and [Naive Bayes]((ml_algos_from_scratch/NaiveBayes_Scratch/main.cpp)) and a document explaning our [results](ml_scratch.docx).
 
 ## Similarity 
-Here is my documents for [Classification](similarity/Classification.pdf), [Regression](Regression/Regression.pdf), [Clustering](clustering/clustering.pdf), [DimensionalityReduction](DimensionalityReduction/DimensionalityReduction.pdf)
+Here is my documents for [Classification](similarity/Classification/Classification.pdf), [Regression](similarity/Regression/Regression.pdf), [Clustering](similarity/clustering/clustering.pdf), [DimensionalityReduction](similarity/DimensionalityReduction/DimensionalityReduction.pdf)
