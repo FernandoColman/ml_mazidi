@@ -1,11 +1,14 @@
 ---
 title: "Clustering"
+author: "Fernando Colman, Linus Fackler, Justin Hardy, Isabelle Villegas"
 output:
   pdf_document: default
   html_document:
     df_print: paged
-authors: Fernando Colman
+
 ---
+
+
 
 This notebook will show how to perform 3 types of clustering on a dataset. KMeans Clustering, Hierarchical Clustering, and Model-Based Clustering. The dataset that is used is one that is already included with R, the "USArrests" dataset which measures how many people were incarcerated in a state and for which crime they were incarcerated for. First let's load some packages and took a look at our data.
 
